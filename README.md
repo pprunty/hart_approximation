@@ -1,3 +1,5 @@
+Part of a college assignment...
+
 # Hart Approximation to Normal Distribution
 
 This is a simple program that implements Hart's polynomial approximation to the Normal or Gaussian
